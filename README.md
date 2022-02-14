@@ -5,10 +5,9 @@
 {
     "ip": "127.0.0.1",
     "port": 21001,
-    "source": "sensible"
+    "source": "okx"
 }
 ```
-source could be "sensible", "metasv", "woc"
 
 ## Install
 ```
